@@ -1,0 +1,12 @@
+.outCont {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 50px;
+  gap: 40px;
+}
+.header {
+  font-size: 70px;
+}

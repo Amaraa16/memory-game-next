@@ -1,0 +1,15 @@
+.cardCont {
+  width: 150px;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  background-color: black;
+  color: white;
+  font-size: 25px;
+}
+
+.active {
+  opacity: 0;
+}
